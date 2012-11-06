@@ -1,0 +1,9 @@
+#################
+## NetBeans
+#################
+
+build/
+dist/
+
+# Mac crap
+.DS_Store
